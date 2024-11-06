@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Mazhar</h1>
-<h3 align="center">A passionate python developer from Turkey</h3>
+<h3 align="center">A passionate python developer and Requirements Engineer from Turkey</h3>
 <h3 align="center">🔭 I’ve been developing applications for a variety of fields such as Language Learning, Trading etc...</h3>
 
