@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Mazhar</h1>
 <h3 align="center">A passionate python developer and Requirements Engineer from Turkey</h3>
 <h3 align="center">🔭 I’ve been developing applications for a variety of fields such as Language Learning, Trading etc.. 
-and trading stocks and crypto primarily 
+and trading equity primarily 
   
 <h3 align="center">🔭 (-Außerhalb der Geschäftszeiten | During off-hours | Mesai saatleri dışında) .</h3>
 <h3 align="center">🔭 Softwareentwicklung mit Python</h3>
