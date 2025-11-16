@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 and trading equity primarily 
 
 <h3 align="center">Multilingual | Mehrsprachig </h3>
-<h3 align="center">4+ years of Systems/Requirements Engineering | Railway and Defense Industries sectors </h3>
+<h3 align="center">4+ years of Systems/Requirements Engineering | Railway and Defense Sectors </h3>
 <h3 align="center">4+ Jahre Erfahrung im Bereich Systemtechnik/Anforderungsanalyse | Eisenbahn- und Verteidigungsindustrie </h3>
 
 <h3 align="center">7+ Jahre - Händler - die Börse </h3>
