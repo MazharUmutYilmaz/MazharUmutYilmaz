@@ -30,8 +30,6 @@ and trading equity primarily
 <h3 align="center">[Deutscher](https://www.linkedin.com/in/mazharyilmaz/?locale=de_DE) </h3>
 <h3 align="center">[Englischer](https://www.linkedin.com/in/mazharyilmaz/) </h3>
 
-<h3 align="center"> Englischer Lebenslauf </h3>
-<h3 align="center"> Deutscher Lebenslauf </h3>
 
 
 
