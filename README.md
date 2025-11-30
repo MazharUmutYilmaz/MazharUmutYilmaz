@@ -26,3 +26,13 @@ and trading equity primarily
 <h3 align="center">🔭 (-Außerhalb der Geschäftszeiten | During off-hours | Mesai saatleri dışında) .</h3>
 <h3 align="center">🔭 Softwareentwicklung mit Python</h3>
 
+<h3 align="center">Profil pages | Profilseiten </h3>
+<h3 align="center">[Deutscher](https://www.linkedin.com/in/mazharyilmaz/?locale=de_DE) </h3>
+<h3 align="center">[Englischer](https://www.linkedin.com/in/mazharyilmaz/) </h3>
+
+<h3 align="center"> Englischer Lebenslauf </h3>
+<h3 align="center"> Deutscher Lebenslauf </h3>
+
+
+
+
