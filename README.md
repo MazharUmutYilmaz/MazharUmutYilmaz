@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, I'm Mazhar</h1>
 <h3 align="center">A passionate python developer and Requirements Engineer from Turkey</h3>
-<h3 align="center">🔭 I’ve been developing applications for a variety of fields such as Language Learning, Trading etc.. 
+<h3 align="center">🔭 I’ve been developing applications for a variety of fields such as Engineering, Language Learning, Trading etc.. 
 and trading equity primarily 
 
 <h3 align="center">Multilingual | Mehrsprachig </h3>
 <h3 align="center">4+ years of Systems/Requirements Engineering | Railway and Defense Sectors </h3>
 <h3 align="center">4+ Jahre Erfahrung im Bereich Systemtechnik/Anforderungsmanagement | Eisenbahn- und Verteidigungsindustrie </h3>
 
-<h3 align="center">7+ Jahre - Händler - die Börse </h3>
+<h3 align="center">8+ Jahre - Händler - die Börse </h3>
 
 <h3 align="center">🔭 (-Außerhalb der Geschäftszeiten | During off-hours | Mesai saatleri dışında) .</h3>
 <h3 align="center">🔭 Softwareentwicklung mit Python</h3>
