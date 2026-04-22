@@ -21,9 +21,6 @@ and trading equity primarily
 <h3 align="center">4+ years of Systems/Requirements Engineering | Railway and Defense Sectors </h3>
 <h3 align="center">4+ Jahre Erfahrung im Bereich Systemtechnik/Anforderungsmanagement | Eisenbahn- und Verteidigungsindustrie </h3>
 
-<h3 align="center">8+ Jahre - Händler - die Börse </h3>
-
-<h3 align="center">🔭 (-Außerhalb der Geschäftszeiten | During off-hours | Mesai saatleri dışında) .</h3>
 <h3 align="center">🔭 Softwareentwicklung mit Python</h3>
 
 <h3 align="center">Profil pages | Profilseiten </h3>
