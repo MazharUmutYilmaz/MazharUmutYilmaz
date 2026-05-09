@@ -24,6 +24,7 @@ and trading equity primarily
 <h3 align="center">4+ Jahre Erfahrung im Bereich Systemtechnik/Anforderungsmanagement | Eisenbahn und Verteidigungsindustrie </h3>
 
 <h3 align="center">🔭 Softwareentwicklung mit Python</h3>
+<h3 align="center">💬 Private Sector | Privatsektor</h3>
 
 <h3 align="center">Profil pages | Profilseiten </h3>
 <h3 align="center">[Deutscher](https://www.linkedin.com/in/mazharyilmaz/?locale=de_DE) </h3>
