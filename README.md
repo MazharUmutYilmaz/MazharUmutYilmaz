@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <h3 align="center">4+ years of Systems/Requirements Engineering | Railway and Defense Sectors </h3>
 <h3 align="center">4+ Jahre Erfahrung im Bereich Systemtechnik/Anforderungsmanagement | Eisenbahn und Verteidigungsindustrie </h3>
 
+<h3 align="center">8+ years in Stock Trading - Capital Markets (Finance) </h3>
+
 <h3 align="center">🔭 Softwareentwicklung mit Python</h3>
 <h3 align="center">💬 Private Sector | Privatsektor</h3>
 
